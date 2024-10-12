@@ -1,6 +1,8 @@
 # Genshin LINE Bot の README
 
 このプロジェクトは、`enka.network` のデータに基づいて Genshin Impact プレイヤーにさまざまな機能を提供する LINE ボットを実装しています。ボットは Google Apps Script で作成されており、LINE Messaging API および `enka.network` API と連携して、ユーザーに有用な情報を提供します。
+https://liff.line.me/1645278921-kWRPP32q/?accountId=864weplb
+実際のbotです。
 
   **具体的な使用例**:
 
